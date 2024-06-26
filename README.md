@@ -22,6 +22,6 @@ This project implements an interactive navigation menu using HTML, CSS, and Java
 
 To use navigation menu in your project:
 
-Copy the HTML structure into your project.
-Customize the CSS to match your design preferences.
-Include the JavaScript snippet to enable color change on scroll.
+- Copy the HTML structure into your project.
+- Customize the CSS to match your design preferences.
+- Include the JavaScript snippet to enable color change on scroll.
